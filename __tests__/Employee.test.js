@@ -1,1 +1,1 @@
-describe
+const Employee = require('../lib/Employee');
